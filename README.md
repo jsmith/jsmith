@@ -1,6 +1,9 @@
-### Hi there 👋
+🎒 Currently taking my last course of Software Engineering @ [`UNB`](http://unb.ca/)  
+🐺 Working at [`Gray Wolf`](http://graywolfai.com/)  
+🎹 In my spare time, I work on [`DAWG`](https://github.com/dawg/dawg)  
 
 <!--
+✨ Check out my [website](https://jacobsmith.me/) ✨
 **jsmith/jsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
