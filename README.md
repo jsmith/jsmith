@@ -1,6 +1,6 @@
 🎒 Currently taking my last course of Software Engineering @ [`UNB`](http://unb.ca/)  
 🐺 Working at [`Gray Wolf`](http://graywolfai.com/)  
-🎹 In my spare time, I work on [`DAWG`](https://github.com/dawg/dawg)  
+🎹 In my spare time, I work on [`DAWG`](https://github.com/dawg/dawg) and [`RELAR`](https://relar.app/)  
 
 <!--
 ✨ Check out my [website](https://jacobsmith.me/) ✨
