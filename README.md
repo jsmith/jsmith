@@ -1,4 +1,4 @@
-🎒 &nbsp; Currently taking my last course of Software Engineering @ [`UNB`](http://unb.ca/)  
+🎒 &nbsp; Just graduated from Software Engineering @ [`UNB`](http://unb.ca/)  
 🐺 &nbsp; Working at [`Gray Wolf`](http://graywolfai.com/)  
 🎹 &nbsp; In my spare time, I work on [`DAWG`](https://dawg.dev) and [`RELAR`](https://relar.app/)  
 
