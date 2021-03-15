@@ -1,5 +1,5 @@
 🎒 &nbsp; Just graduated from Software Engineering @ [`UNB`](http://unb.ca/)  
-♉ &nbsp; Working at [`Palantir`](https://www.palantir.com)  
+💼 &nbsp; Working at [`Palantir`](https://www.palantir.com)  
 🎹 &nbsp; In my spare time, I work on [`DAWG`](https://dawg.dev) and [`RELAR`](https://relar.app/)  
 
 <!--
